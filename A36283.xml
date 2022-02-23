@@ -1,0 +1,598 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Don Quixot redivivus encountring a barns-door, or An exact narrative of the rare exploits of Captain Braines in a dangerous expedition against a certain barn in a town on the other side of the river Inne in the land of Little Ease, and Less Justice. Under the command of Tom Coxcomb signifier, an over-grown tapster, and principle-member of the disloyal Society of the Vitiosi, and of the corruption of the said town, and sometimes justler of the peace there.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36283</idno>
+            <idno type="STC">Wing D1845A</idno>
+            <idno type="STC">ESTC R213517</idno>
+            <idno type="EEBO-CITATION">99825881</idno>
+            <idno type="PROQUEST">99825881</idno>
+            <idno type="VID">30272</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36283)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30272)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1758:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Don Quixot redivivus encountring a barns-door, or An exact narrative of the rare exploits of Captain Braines in a dangerous expedition against a certain barn in a town on the other side of the river Inne in the land of Little Ease, and Less Justice. Under the command of Tom Coxcomb signifier, an over-grown tapster, and principle-member of the disloyal Society of the Vitiosi, and of the corruption of the said town, and sometimes justler of the peace there.</title>
+               </titleStmt>
+               <extent>[4], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Company of Informers,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>[1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian sects --  England --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30272:1"/>
+            <p> 
+               <hi>DON QUIXOT Redivivus Encountring A BARNS-DOOR, OR AN Exact Narrative OF THE RARE EXPLOITS Of Captain</hi> Braines <hi>in a Dangerous Expedition againſt a Certain BARN in a Town on the other Side of the River ANNE in the Land of</hi> Little Eaſe, <hi>and</hi> Leſs Juſtice.</p>
+            <p>
+               <hi>UNDER THE COMMAND Of</hi> Tom Coxcomb <hi>Signifer, an Over-grown Tap<g ref="char:EOLhyphen"/>ſter, and Principle-Member of the Diſloyal Society of the</hi> Vitioſi, <hi>and of the Corruption of the ſaid Town, and Sometime a Juſtler of the Peace there.</hi>
+            </p>
+            <p>As a roaring Lion, and a ranging Bear: ſo is a wicked ruler over the poor people. <hi>Prov.</hi> 28. 15.</p>
+            <p>I ſaw under the Sun the place of judgement, that wickedneſs was there: and the place of righteouſneſs, that iniquity was there. <hi>Eccleſ.</hi> 3. 16.</p>
+            <p>I ſaid in my heart, God ſhall judge the righteous, and the wicked, &amp;c. <hi>Ver.</hi> 17. <hi>And that God might manifeſt them, that they might ſee that they themſelves are beaſts.</hi>
+            </p>
+            <p>Printed for the Company of INFORMERS.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:30272:2"/>
+            <pb facs="tcp:30272:2"/>
+            <head>AD LECTOREM.</head>
+            <lg>
+               <l>HAve you er'e ſeen Sir <hi>Bacchus</hi> in his Fits,</l>
+               <l>Belch out his Rage as one bereſt o's Wits?</l>
+               <l>Or have you ſeen him at his Bacchinall's?</l>
+               <l>When drawn with Tygers at his Feſtivalls</l>
+               <l>Attended on, with <hi>Lenae, Thyades,</hi>
+               </l>
+               <l>With <hi>Menades,</hi> and old <hi>Baſsarides,</hi>
+               </l>
+               <l>With Satyr Prieſts, and's jolly Women too,</l>
+               <l>With Furies, and the reſt of's Drunken Crue?</l>
+               <l>Servants ſo fit, as that they never were</l>
+               <l>Fitter attendance on ſo rude a Bear:</l>
+            </lg>
+            <lg>
+               <l>Juſt ſo I ſaw proud <hi>Tombo</hi>'s fury Swell,</l>
+               <l>Huffing and raging as if none could tell</l>
+               <l>From whence he might derive his Pedigree,</l>
+               <l>Unleſs from <hi>Bacchus,</hi> or ſuch Bruits as he,</l>
+               <l>Cut, ſlaſh with Sword, ſhoot, kill, he cryed,</l>
+               <l>I'le bear you out, am not I quallified?</l>
+               <l>I'm Maſter of the Revells, am not I?</l>
+               <l>I ſay my Prayers in Sack and Claret high:</l>
+               <l>I'm for the Church, and for my Soveraign,</l>
+               <l>I'le ram and dam, and ſink each Puritan.</l>
+               <l>Then Swells, and foams, and Spitteth fire,</l>
+               <l>Ranging the Streets, Smites any in his Ire:</l>
+               <l>There need no Harpies, no nor Furies by,</l>
+               <l>Nor <hi>Demons</hi> to amaze the ſtanders nigh:</l>
+               <l>This Ragamuffin when with Dire he comes,</l>
+               <l>His words a Larrum, but hark, to hear his Drums</l>
+               <l>Had there been any <hi>Scythian</hi> Women here,</l>
+               <l>He would have caus'd them all to diſappear:</l>
+               <l>Men prate and talk (quoth he) of Heaven and Hell,</l>
+               <l>Such Scare-Crows Children ſerve, Sure I can't tell</l>
+               <l>That there a God or Devill is; I fear them not,</l>
+               <l>March on I ſay, but I do fear my Throat;</l>
+               <l>His word's a Law, poor Captain muſt obey,</l>
+               <l>He calls for's Imps, who dare to ſay him nay?</l>
+               <l>He is the <hi>Ignis Fatuus</hi> of the Place,</l>
+               <l>Which way he turns each Juſtice turns his Face;</l>
+               <l>Their Zeal's inflam'd by him, in him will fade</l>
+               <l>At laſt, and find themſelves in th' mire to wade,</l>
+               <l>Phanaticks, Traytors all, and Rebells too</l>
+               <l>Are ſuch as won't like to this Mad-man do:</l>
+               <pb facs="tcp:30272:3"/>
+               <l> None but the Topers that come oft to's Cell,</l>
+               <l>Shall be his Neighbours, or ſhall near him dwell;</l>
+               <l>His Panch brim full of Sack, and Paſty-Cruſt,</l>
+               <l>And Swell'd with Pride, no doubt e'relong will burſt.</l>
+               <l>Applauſe he ſeeks, but breath won't in that Aire,</l>
+               <l>Untill hee's mounted into <hi>Hamans</hi> Chair:</l>
+               <l>Aſcend the wrongs he may into a higher place,</l>
+               <l>His Valour and his worth is all in's Face.</l>
+               <l>Have you not ſeen the Mountains Swell for Birth?</l>
+               <l>And then a little Mouſe creep out of th' Earth.</l>
+               <l>Have you not ſeen the Potter vaunt that he</l>
+               <l>Turning the Wheel an <hi>Amphora</hi> here will be?</l>
+               <l>But yet for all his haſt a little Urn</l>
+               <l>That muſt content him, that muſt ſerve his turn;</l>
+               <l>Juſt ſo Swell'd <hi>Tombo</hi>'s braggs <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>All men ſhall ſee that I <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>O that Phanaticks all had but one Neck,</l>
+               <l>I'de give them ſuch a Blow I'de make them keck;</l>
+               <l>Or all that good I know, on them I'de vent</l>
+               <l>My Malice that <hi>ab inferis</hi> is ſent:</l>
+               <l>And let ſome Honour dignifie my Pate,</l>
+               <l>O dub me Knight of th' Poſt; t'was read my Fate:</l>
+               <l>Religion Il'e Reform? yea and my King</l>
+               <l>Shall find his Hand and Seal a trifling thing.</l>
+               <l>Great pitty t'was that er'e the Bible ſaw</l>
+               <l>The Engliſh Tongue I'le make a Law</l>
+               <l>That Latine it ſhall be: though I cann't Spell</l>
+               <l>My Pſalter ſcarce, I'le make a ſhift to go to Hell.</l>
+               <l>Laws againſt Drunkenneſs, and Prophanation</l>
+               <l>Of the Sabbath are my provocation.</l>
+               <l>I will Repeal them all, or make you know</l>
+               <l>Their true intent and meaning is not ſo.</l>
+               <l>At moſt they do concern but poorer Sort</l>
+               <l>That little Money have, and cannot Sport</l>
+               <l>With Malago, Canary, Rheniſh Wine,</l>
+               <l>The Richer Sort may be as drunk as Swine.</l>
+               <l>Such Wind this Bladder fills, but yet we ſee</l>
+               <l>
+                  <hi>Parturiant montes</hi> ſomething; leſs doth he.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:30272:3"/>
+            <head>
+               <hi>DON Q<g ref="char:V">Ʋ</g>IXOT Redivivus</hi> ENCOUNTRING A Barns-Door,</head>
+            <div n="1" type="section">
+               <head>
+                  <hi>Section</hi> 1.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>N the Lords Day being the Se<g ref="char:EOLhyphen"/>venth day of <hi>September</hi> in the Fore-noon, ſome of the Inhabi<g ref="char:EOLhyphen"/>tants of the Town of <hi>Andover,</hi> and other Places adjacent in the County of <hi>Southampton</hi> being aſ<g ref="char:EOLhyphen"/>ſembled together in the ſolemn Worſhip of God (in a Place aſ<g ref="char:EOLhyphen"/>ſigned them for that end and purpoſe by his Majeſties moſt gracious Licence (in a quiet and peacable manner: Mr. <hi>S. S.</hi> then Preaching from <hi>Luke</hi> 16. 25. Capt. <hi>Brains</hi> Eſq; Captain of the Train-band of the In-hundred of <hi>Andover,</hi> and <hi>Tomas Coxcomb</hi> Inn-kee<g ref="char:EOLhyphen"/>per Enſign of the ſaid Band, aroſe out of their places in the Church, commanding others to their Aid (making a great noiſe and diſturbance there,) and among the reſt
+<pb n="2" facs="tcp:30272:4"/> charged Lieutenant <hi>B.</hi> to aſſiſt them, who ſaid he ſhould do nothing without a Warrant from a Juſtice of Peace: The ſaid <hi>I. Coxcomb</hi> (being then a Juſtice of the Town) went out of the Church ſwearing, and wrote a Warrant (ſuch a one as it was) in the Church-yard upon a Tomb-ſtone, to command the Lieutenants aſſiſtance in breaking up the Meeting aforeſaid, who then went accor<g ref="char:EOLhyphen"/>ningly with them.</p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>Section</hi> 2.</head>
+               <p>The ſaid Officers calling ſome of the Train-band together, came with Swords, Muskets charged, (by command from the Captain) Drums beating, and other weapons of War unto the door of the Houſe where the a<g ref="char:EOLhyphen"/>foreſaid were aſſembled; as ſoon as this violent aſſault was perceived by the Miniſter, he deſired the people to be quiet, and ſit ſtill in their places, without making the leaſt reſiſtance, which accordingly was performed.</p>
+            </div>
+            <div n="3" type="section">
+               <head>
+                  <hi>Section</hi> 3.</head>
+               <p>The Captain and <hi>T. Coxcomb</hi> enter in all imagina<g ref="char:EOLhyphen"/>ble rage and fury pulling and haling the poor people, roa<g ref="char:EOLhyphen"/>ring out, Conſtables, Conſtables; (which he thought had been there) ran up into the Gallery, down again ranging and bellowing like a mad Bull let looſe, and then calls out keep the Peace, keep the Kings peace; anſwer was made that none brake it but himſelf. Mr. <hi>S.</hi> ſaid, pray Sir be civill, we have been treating of Heaven and Hell (quoth <hi>Tom,</hi> what do you tell me of Heaven and hell?) I came not to talk of Heaven and hell: pull him down; and preſſed to come to the Pulpit, but could not for the throng of peo<g ref="char:EOLhyphen"/>ple who kept their ſtanding, and would not move from
+<pb n="3" facs="tcp:30272:4"/> their places; the Captain and <hi>T. W.</hi> fall a dragging out the people themſelves, and having no Conſtables there, command in one of the Bayliffs Serjeants, and thruſts him in upon the people, who ſcrabled a little at them, and whiningly ſaid, what ſhall I do? what ſhall I do? I do not know what to do with them, ſhifts into the multitude, and hides himſelf, then ſlipt out at another door, and ran away; They command in their Soldiers, one of which cockt his Musket charged, and preſented into the houſe; others fall in with their Officers upon the people; at laſt they drag'd out one perſon ſtanding at the door, punching him and ſtriking him many blows after he was out with their na<g ref="char:EOLhyphen"/>ked Swords; whereupon Mr. <hi>S.</hi> ſaid, here is apparent vi<g ref="char:EOLhyphen"/>olence offered to us, we will diſmiſs the Aſſembly, which he accordingly did, and deſired all perſons to depart to their reſpective Habitations.</p>
+            </div>
+            <div n="4" type="section">
+               <head>
+                  <hi>Section</hi> 4.</head>
+               <p>The Miniſters immediatly came forth, the people fol<g ref="char:EOLhyphen"/>lowing them: the Court before the houſe was full of Soul<g ref="char:EOLhyphen"/>diers, and other people gathered from the Church and ſtreets to behold the Fray: the Captain and Enſign laid about them with might and main with their naked Swords on the people, beating many without any regard who, or how they ſtruck; (the ſoft-headed Captain dreaming that he was engaged in a very dangerous fight, though neither ſword, ſtaff, nor hand was lifted up againſt him;) one that had been at Church left his devotion to ſee what was like to become of his Neighbours, was ſoundly baſtinadoed by the Captain with the naked Sword. Theſe two Officers Captain <hi>K.</hi> and <hi>T. W.</hi> and their two beagles the Informers did ſo baſely abuſe the people, that their patience and for<g ref="char:EOLhyphen"/>bearance was to admiration,</p>
+               <pb n="4" facs="tcp:30272:5"/>
+            </div>
+            <div n="5" type="section">
+               <head>
+                  <hi>Section</hi> 5.</head>
+               <p>The Lieutenant without a Sword, only a ſtaff in his hand, ſtood in the Court endeavouring to his utmoſt (by his ſober and prudent managemenr of his Office) to keep Peace, and hinder miſchief, and through Gods mercy in all likelyhood was an Inſtrument to prevent effuſion of blood.</p>
+            </div>
+            <div n="6" type="section">
+               <head>
+                  <hi>Section</hi> 6.</head>
+               <p>The ſaid Captain and Enſign ſeeing the Miniſters come forth, commands the Souldiers to ſeize thoſe Perſons, and came immediatly themſelves and ſeiſed them with Swords drawn in their hands; the Miniſters are had away Priſoners, multitudes of people following and thronging from all parts of the Town (as is uſuall in ſuch uproares) in the ſtreet at ſome diſtance from the Meeting place: one of the In<g ref="char:EOLhyphen"/>formers (a Serjeant) flung about his Holbert in the throng of people in a dangerous manner, and ſtruck divers there<g ref="char:EOLhyphen"/>with; thereupon his heels was ſtruck up, and was thrown in the dirt, whereupon ſome ſtir was made by the Souldiers, one threatning to diſcharge his musket among the people, whereat Boyes and young people beginning to be exaſpe<g ref="char:EOLhyphen"/>rated, and at the abuſes of the Informers, (who went a<g ref="char:EOLhyphen"/>long provoking the people) flung ſome dirt at them, ſome of which (it's likely) or from the trampling of the People might fly as they ſaid into the Captains face, which acci<g ref="char:EOLhyphen"/>dent was highly aggravated by the Captain, and his maſter the Enſign afterward, the Enſign ſaying that it was a Re<g ref="char:EOLhyphen"/>bellion, and a Juſtice of Peace ſhould not dare to walk the ſtreets without danger of having his throat cut.</p>
+            </div>
+            <div n="7" type="section">
+               <pb n="5" facs="tcp:30272:5"/>
+               <head>
+                  <hi>section</hi> 7.</head>
+               <p>The Priſoners are commaned by the Enſign into <hi>Mr. Bailiffs</hi> houſe, (he being at Church,) and a Guard ſet up<g ref="char:EOLhyphen"/>on them in the Hall, many people aſſembled in the ſtreet, and at the door, but deſired by the Priſoners to depart, and many did. Lieutenant <hi>B.</hi> alſo ſtayed in the ſtreet, and preſerved quietneſs, there being ſome need thereof; the Informers vapouring up and down among the people, run<g ref="char:EOLhyphen"/>ning at ſome, and ſtriking others with Holberts, and other Inſtruments, eſpecially if any called them Informers, which all the World cannot hinder Boyes and Youths from: In<g ref="char:EOLhyphen"/>formers being alwayes a hatefull ſort of Cattle to all People.</p>
+            </div>
+            <div n="8" type="section">
+               <head>
+                  <hi>Section</hi> 8.</head>
+               <p>While the ſaid Priſoners were ſecured under a file of Musqueteirs in Mr. <hi>Bayliffs</hi> Hall in Squares, Enſign <hi>Tom</hi> attended with the Yeomen of his Guard Captain <hi>John,</hi> Mr. <hi>To.</hi> Captain of the Boyes, one <hi>D.</hi> and <hi>W. T.</hi> Town-Clark, the ſaid Enſigne wallowed about like a great Porpus huffiing and ſweating, and pulling up his Belt, drawing out, and putting up his Sword, ſaying that there had been a Rebellion in <hi>Andover,</hi> that there was dan<g ref="char:EOLhyphen"/>ger of cutting of Throats, ſputtering much of ſuch frothy Language. I will ſend away Poſt (ſaith he) for a Troop of Horſe to ſuppreſs this Inſurrection. Mr. <hi>R.</hi> drawd up an Order immediatly to the Captain of ſuch a Troop to come away, and ſuppreſs a Rebellion in <hi>Andover,</hi> being not able to ſuppreſs it our ſelves, the ſaid <hi>W. K.</hi> an offici<g ref="char:EOLhyphen"/>ous Servant to <hi>Tom Tapſter</hi> puts Pen to Paper accordingly, Mr. <hi>Bayliff</hi> at length arriving from Church, (the Sacrament
+<pb n="6" facs="tcp:30272:6"/> having been that day) the Captain and Enſign offer him this Writing to ſign, and who conſidered of it, and told them there was no need of any ſuch thing, for he ſaw no <hi>Rebellion,</hi> or danger of any, but he would undertake him<g ref="char:EOLhyphen"/>ſelf to ſecure the Peace of the Town, at which <hi>Tom</hi>'s ire was exceedingly kindled, looking upon ſuch a reply as no ſmall reflexion on his proweſs and policy, told the Bay<g ref="char:EOLhyphen"/>liff the Priſoners were priſoners of War, and that he would ſecure thoſe Heads of the <hi>Rebellion,</hi> and would ſend for a Troop of Horſe for that end and purpoſe: Well ſaith the Lieutenant, write your Warrant to ſend them whither you will, I will give 500<hi>l.</hi> Bond to deliver them there my ſelf without a Souldier: no ſaith <hi>Tom</hi> I will have a grea<g ref="char:EOLhyphen"/>ter force to ſecure them, and went forth in a great rage. Accordingly they ſay he ſent for this Troop which lay at <hi>Hampton;</hi> but the Officers were wiſer then to obſerve <hi>Tom. W.</hi> Commands, and return him (as they ſay) this anſwer, That they were not to wait upon every Fools Arſe.</p>
+            </div>
+            <div n="9" type="section">
+               <head>
+                  <hi>Section</hi> 9.</head>
+               <p>Next a great Counſell of Officers is held and conclu<g ref="char:EOLhyphen"/>ded; That two Drums ſhould beat thorow the Town, to aſſemble the reſt of the Company: who when called toge<g ref="char:EOLhyphen"/>ther, they draw forth a file of Musquetiers under a Serjeant to Guard Mr. Informer <hi>M.</hi> Commiſſionated to nail up the Barns doors, the aforeſaid place of Meeting in <hi>New-ſtreet.</hi> He marcheth up moſt valiently, armed with hammer, nails, and gimlet, chargeth the door, and it muſt ſtand; the Combitant encounters it, makes a Paſs with his Gimlet, bores on, reckons the day his own; at laſt comes a ſtone (they know not from whence) and ſtruck this <hi>Goliah</hi> upon
+<pb n="7" facs="tcp:30272:6"/> the Thumb, down goes the hammer and gimlet; and up goes the Thumb; look you here Gentlemen (quoth he,) do you ſee what they have done, they have broken my Thumb, and ſwore it was not poſſible to be done; but ſee<g ref="char:EOLhyphen"/>ing the Wound was not mortall, he plucks up his Spirits, and with a trembling heart, and ſhaking hand, attempts this great enterpriſe once more, and makes the ſecond Paſs; when immediatly another ſtone came and gave him a ſecond gentle Patt, which put them all to a totall rout: Away they retreat to the body of the Army, as a Forlorn-Hope half ſlain, and give an account to the Officers of the great hazard and danger of this Atchievement, and that it could not be accompliſhed without greater Force.</p>
+            </div>
+            <div n="10" type="section">
+               <head>
+                  <hi>Section</hi> 10.</head>
+               <p>Whereupon Captain <hi>Couragious</hi> animates his Souldi<g ref="char:EOLhyphen"/>ers, and marcheth up his Band with Drums beating, and Colours flying, and draws up againſt this Invincible Gy<g ref="char:EOLhyphen"/>ant <hi>(Barns-door,)</hi> and when drawn forth into Battalia, a Combitant is ſought for with a Workmans hammer to ſtrike through the Temples of it; dreadfull <hi>Polyphomus,</hi> none dares ſtand forth, till at laſt a pittifull runagade Smith (a man of deſperate fortune) undertakes to naile the door as faſt as a Horſe-ſhooe, or elſe looſe his hammer; and after the Out-works were cleared of the Boyes their ſo feared enemies, out marcheth the Champion, the Army opening to the right and left, and deſperately drives ſix whole nailes into the door. A Knaviſh Smith ſtanding by, undertook to defie that Gyant-like <hi>Vulcan,</hi> ſaying ha! I have a pair of Pinchers at home can draw theſe Nails. Now the other door muſt be ſecured by the ſame hand, which furiouſly ſet upon, as notably withſtood the aſſault, for
+<pb n="8" facs="tcp:30272:7"/> they ſhutting within ſide, could not now be nailed with<g ref="char:EOLhyphen"/>out drawing the Nails drove into the firſt door, whereby they might enter the Houſe, ſo that they ſtand ſecuring the Houſe ſtill by their Locks to the right Owner; and ſee<g ref="char:EOLhyphen"/>ing there was no more to be done, and in vain to attempt any further, it's well enough ſaith the Captain. Come let us march Gentlemen, March.</p>
+            </div>
+            <div n="11" type="section">
+               <head>
+                  <hi>Section</hi> 11.</head>
+               <p>
+                  <hi>Tantara, Tantara,</hi> triumphantly they march with Drums beating and Colours flying; <hi>Tom W.</hi> and his Cap<g ref="char:EOLhyphen"/>tain looking as bigg as <hi>Don Quixot,</hi> ready to charge all the Wind-mills in the Land, commanding his Souldiers as they marched to fire upon the Children in the ſtreet for calling the <hi>Doegs</hi> by the names of Informers, roaring give fire upon them, ſhoot them, kill them, and rare work there had been, had the Souldiers been altogether as brain-ſick, and mad as theſe two Commanders in chief.</p>
+            </div>
+            <div n="12" type="section">
+               <head>
+                  <hi>Section</hi> 12.</head>
+               <p>A Counſell of War is held, and the next grand matter under Debate was the diſpoſal of thoſe dangerous Priſo<g ref="char:EOLhyphen"/>ners into ſafer Cuſtody for the ſecurity of the Peace of the Nation; at laſt Lieutenant B. is ſent to the Priſoners (under ſtrict Guard in Mr. Bayliffs houſe, and there civilly treated by him) to give them to underſtand that it was the Captains pleaſure they ſhould be removed to the <hi>White Swan</hi> an Inne over againſt the Market houſe: Preſently the inconſiderably formidable <hi>Tom</hi> of <hi>Andover</hi> appears wadling before his Band of Souldiers with Drums and Co<g ref="char:EOLhyphen"/>lous, ſputtering and foaming like a great Boar, command<g ref="char:EOLhyphen"/>ing his Souldiers to fire (as aboveſaid) at the people, vvho ſtood forth to behold this Wonderfull ſight.</p>
+            </div>
+            <div n="13" type="section">
+               <pb n="9" facs="tcp:30272:7"/>
+               <head>
+                  <hi>section</hi> 13.</head>
+               <p>Lieutenant <hi>B.</hi> (carrying himſelf ſtill moſt civilly, like a Gentleman in all his behaviour) looking forth at the Window, and ſeeing the Elephant ſo rampant in the ſtreet, adventnred down to command this juſtice <hi>Enſigne,</hi> and ſaid, march on Gentlemen, and draw up in the Market-place: I will deliver the Priſoners ſafe at the <hi>Swan;</hi> they march on; the Lieutenant brings the Priſoners after, and at <hi>Swan gate</hi> delivers them to Juſtice <hi>Tom,</hi> and departs: which ſaid Juſtice commands them along with him, hath them into the Inne, ſtumbles upon a civility, and calls for the beſt room in the houſe for thoſe Gentlemen, chargeth his Souldiers with them, ſets Four for a Guard at the Chamber door, and a Court of Guard in the Town. Hall for relief to the other every hour, and for the Security of the Town: this was after about five hours impriſonment in Mr. Bayliffs houſe.</p>
+            </div>
+            <div n="14" type="section">
+               <head>
+                  <hi>Section</hi> 14.</head>
+               <p>And now in this place at the <hi>White Swan,</hi> a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſtate of Inpriſonment, the two Miniſters continue from <hi>Sunday</hi> a<g ref="char:EOLhyphen"/>bout five a clock at night, till <hi>Monday</hi> about nine a c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ock at Night: during which ſpace of time this malicious bubble appears as followeth: ſets his Court of Guard, appoints a Captain of it, roars and dominers in the Hall, and about the ſtreets as if all the Tapſters in <hi>England</hi> were incon<g ref="char:EOLhyphen"/>ſiderable trifles to him: Orders his Tattooes and Reval<g ref="char:EOLhyphen"/>lois to be beaten up in the Night, as if all the Nation were flaming with fire and ſword. So great a noiſe there was at the door with the rudeneſs and ranting of Souldiers, as in the Street, and Market-houſe, that the poor Priſoners
+<pb n="10" facs="tcp:30272:8"/> could not get half an hour of good reſt all night. The next morning comes Enſign <hi>Tom</hi> bellowing to his Guard in the Market-houſe. and there keeps a Court-marſhall, having taken a Boy upon ſome complaint of his Imps the Informers, for ſome Affront put upon them; firſt he con<g ref="char:EOLhyphen"/>demus him to lie neck and heels, next reverſeth that Sen<g ref="char:EOLhyphen"/>tence, and commands him to be hung up by the heels three hours.</p>
+            </div>
+            <div n="15" type="section">
+               <head>
+                  <hi>Section</hi> 15.</head>
+               <p>This heing the day for the election of the new Bayliff, and the <hi>Exit</hi> of this Juſtler of the Peace, growing on to the great joy of the Inhabitants of the Town of <hi>Andover, (P. B.</hi> and <hi>W. R,</hi> only excepted, the two great Admirers of his Valour and Zeal for the Church;) our Gentleman <hi>Proteus</hi> like, changeth his ſhape, (but not his Nature) ap<g ref="char:EOLhyphen"/>pears in another Garb, he that was yeſterday <hi>Gladiator,</hi> is now <hi>Cogatus,</hi> inſtead of a ſett of Drums, hath a ſett of Fidlers pace before him for the honour of his Greatneſs and Corruption of <hi>Andover Chonorariums</hi> that he and his Gueſt were alwayes moſt acquainted with his Acchieve<g ref="char:EOLhyphen"/>ments, having been ſtill moſt renowned in the Field of <hi>Bacchus:)</hi> his Brethren of the Corporation all wait upon his Excellency in their Robes, but all of them Ciphers, he the only Figure that ſignified any thing in this three dayes Go<g ref="char:EOLhyphen"/>vernment of the Town by Sword and Drum: And now brings them to chooſe their Bayliff, and Magiſtrates, and other Officers under his Court of Guard, a very unuſuall thing till <hi>Tom</hi> became Keeper of the Liberties of <hi>Andover,</hi> and King <hi>P.</hi> was put beſide his Regallity.</p>
+            </div>
+            <div n="16" type="section">
+               <pb n="11" facs="tcp:30272:8"/>
+               <head>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ection</hi> 16.</head>
+               <p>But the worſt is, Mr. Juſtice comes a Pegg lower, and returns in <hi>Primam materiam,</hi> falls back to the Reer, and becomes the rump of Corruption: but the ſmell of the ap<g ref="char:EOLhyphen"/>proaching good Cheer bore up his Spirits from ſinking. And truly the Town had a marveilous intervale of Quietneſs whileſt this <hi>Cerberus</hi> was held by the Chops with a Cruſt; but having filled his Panch with Veniſon, Paſly, and Sack, and his Spirits elevated, he thought himſelf to be ſome body, and would have the Town to know that he was ſome<g ref="char:EOLhyphen"/>thing more then <hi>non nihil,</hi> and therefore going from the old Bayliff, to the Bayliff Elects Banquet with his Bre<g ref="char:EOLhyphen"/>thren, he is pleaſed to caſt up an eye as he goes along to the Priſon windows, and (beholding his Priſoners, and divers others accompanying them, looking upon that tran<g ref="char:EOLhyphen"/>ſient fidling pomp) the Gentleman fancied he was laughed at by ſome of the Beholders, and it was well he had ſo much wit to think ſo. (for never was a more ridiculous Baffoon that wore Sword, or Gown.) he roars out in the ſtreet to the Impriſoned Spectators, well done, weli done, I will be with you anon, and give you a Glaſs of Sack.</p>
+            </div>
+            <div n="17" type="section">
+               <head>
+                  <hi>Section</hi> 17.</head>
+               <p>Before the Banquet, it had been Debated betwixt the Civill and Uncivill Officers what to do with the Priſoners, Captain <hi>John</hi> beginning to have ſome increaſe of his Wits by reaſon of the addition of the Spirit of Wine, and be<g ref="char:EOLhyphen"/>gan to conſider the keeping of theſe Souldiers, and paying them might fall to his ſhare, that <hi>Tom</hi> had the honour, but poſſibly he ſhould pay the ſhot; and though he might make a pretty good ſhift to feed them well that day from the Bayliffs Table (as indeed they were too high, for fal<g ref="char:EOLhyphen"/>ling
+<pb n="12" facs="tcp:30272:9"/> out about a piece of Paſty, or ſuch a thing, they drew, and one was dangerouſly wounded in the Arm,) he might find it more chargeable to keep up ſuch a Guard much lon<g ref="char:EOLhyphen"/>ger upon two poor unarmed men, that he thought the Bayliff could keep Priſoners at an eaſier rate.</p>
+            </div>
+            <div n="18" type="section">
+               <head>
+                  <hi>Section</hi> 18.</head>
+               <p>After Debate, Three Propoſals were ſent to the Priſo<g ref="char:EOLhyphen"/>ners to chooſe, 1. Either to remain Priſoners under <hi>Tom Coxcomb</hi>'s Court of Guard; or 2. to pay the money to the Worſhipful their Informers; or 3. to give Sureties to appear at the next Seſſions, to anſwer to what Fello<g ref="char:EOLhyphen"/>nies, Murthers, Treaſons, and Rebellions inſignificant <hi>Tom</hi> ſhould lay to their Charge. The Priſoners ſoon reſol<g ref="char:EOLhyphen"/>ved, and of the Three ev<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lls of puniſhment choſe the laſt and leaſt: This Anſwer is returned to the Bayliff, and accepted by him; he acquaints General <hi>Tom,</hi> and his Clerk <hi>W. K.</hi> with the choice of the Priſoners; at which his Indignation is raiſed, thinking that he had ſo worried and terrifi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d them, with Drums, Priſons, and high ſwel<g ref="char:EOLhyphen"/>ling words of Treaſon, Rebellion, <hi>&amp;c.</hi> that they would have choſen rather to have given his Setting-Doggs a breakfaſt, then to have hazarded their Necks upon his high Impeachments: he therefore in a Rage reſolves not to deliver up his Priſoners to the Bayliff, unleſs he might have bond of Indemnity for what was paſt; and this was alſo Mr. Town-Clarks ſafe Advice, (being perfectly <hi>Toms</hi> Creature) to his Maſters; but it ſeems Mr. Bayliff thought this Counſell not good at this time.</p>
+            </div>
+            <div n="19" type="section">
+               <pb n="13" facs="tcp:30272:9"/>
+               <head>
+                  <hi>Section</hi> 19.</head>
+               <p>Whereupon this Maſter of Miſ-rule returns to the Ba<g ref="char:EOLhyphen"/>rel-head ſwell'd like a Toad; contrives how to reak his further malice upon the Priſoners, and how the Poyſon was vented, the enſuing Narration will fully make mani<g ref="char:EOLhyphen"/>feſt.</p>
+            </div>
+            <div n="20" type="section">
+               <head>
+                  <hi>Section</hi> 20.</head>
+               <p>On the ſaid <hi>Monday</hi> night about nine of the Clock, the Priſoners were ſitting in their priſon-chamber under Guard in the <hi>White Swan,</hi> with divers Friends, Men and Women who came in to Viſit them, and ſome taking a Pipe of Tobacco with them, and in diſcourſe and expecta<g ref="char:EOLhyphen"/>tion of enlargement that night; all on a ſudden, (none there having the leaſt intimation. or ſuſpition of any ſuch thing) in flies <hi>Bacchus</hi> triumphant, metamorphos'd into <hi>Mars</hi> rampant into the Priſoners Chamber with his naked Sword advanced in his paw, roaring (and ranting as if he had been at his <hi>Sondayes</hi> Devotion) where is <hi>S.</hi> and <hi>C.</hi> his Sword hanging in his eyes that he could not ſee them; Here, here ſay they, what's the buſineſs now? along with me, away with me, come along, elſe I will make you; (all People being amazed at the ſudden of this ſurpriſing, Outrage,) down ſtairs he hath them, brandiſhing his cold Iron; and as he paſſed along the dark Entry leading to the ſtreet, made ſome Paſſes at thoſe that were in his way:) One had unavoidably been run into the belly by him, had he not by the Glimpſe of a Candle ſeen the Glittering of his Sword coming at him; whereat he nimbly with his hand put by his Thruſt: When he came into the Street Mr. Bayliff, and his Brethren, and the Captain then go<g ref="char:EOLhyphen"/>ing
+<pb n="14" facs="tcp:30272:10"/> up Street from the Bayliff Elects banquet, calls out what is the matter there? ſeeing the hubbub and confuſion in the ſtreet. <hi>Tom</hi> return<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mr. <hi>Bayliff</hi> come over, I charge you to my Aſſiſtance; and then where is <hi>C.</hi> here quoth he am <hi>I,</hi> along, along quoth <hi>Tom,</hi> you are my Souldier, my Souldier: No, no (ſaith <hi>C.)</hi> you are miſtaken Sir, I am none of your Souldier, My Priſoner, my Priſoner quoth Mr. <hi>Coxcomb,</hi> Mr. <hi>Bayliff</hi> ſaith, Mr. <hi>C.</hi> I pray keep the Peace; whereupon he cauſed Proclamation of the Peace to be made. Captain <hi>K.</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> ran over, (having been in the Bayliffs company,) and ſaid, I pray what is the mean<g ref="char:EOLhyphen"/>ing of this Mr. <hi>Coxcomb?</hi> I know (quoth he) what is the meaning of it; Whither will you have them (quoth the Captain?) I know whither I will have them quoth <hi>Tom.</hi> One of the Priſoners ſaid to the Captain, do you know the reaſon of this ſtrange acting? Saith the Captain they have been talking of ſomething they cannot agree on, So! Saith the Priſoners, gueſſing right what that was; but is not this Fellow drunk quoth the Priſoners? No ſure ſaith the Captain, I think not: We will go any where quoth the Priſoners where you will command us, but let us not be at this Fellows diſpoſall, pray let us not go to his houſe; which <hi>Tom</hi> over-hearing ſaid, No, my Houſe ſhall not be your priſon, I have another place provided for you.</p>
+            </div>
+            <div n="21" type="section">
+               <head>
+                  <hi>Section</hi> 21.</head>
+               <p>The breaking looſe of this Bear, who indeed is never Sober, but a Guzling Swearing Bruit at all times; but when acted by that evill Spirit his Zeal for the Church, is raving mad, and will Swear all manner of Oaths, and commit all manner of Inſolencies, might have been of dangerous Con<g ref="char:EOLhyphen"/>ſequence
+<pb n="15" facs="tcp:30272:10"/> at this time of Night, he running with his Sword at ſome, and threatning others; the people flocking toge<g ref="char:EOLhyphen"/>ther, and their blood ſufficiently boiling at theſe horrid Cowardly provocations of his, whereby it appears to the World that the Town is not ſo inclinable to Inſurrection, if it had been an eaſie thing to have put an end to <hi>Tom</hi>'s Swaggering, and cut him of the Simples maugre his Sword or Souldiers; but Conſcience towards God, Loyalty to his Majeſty, and Love of the Nations peace, hath reſtrained people, and kept them in their Wits, whilſt this mad Man rang'd the ſtreets.</p>
+            </div>
+            <div n="22" type="section">
+               <head>
+                  <hi>Section</hi> 22.</head>
+               <p>Down the Street marcheth <hi>Tom</hi> with his Spit advan<g ref="char:EOLhyphen"/>ced, driving the Priſoners before, calling to them along, along, Swearing ſometimes at them, and ſometimes at the people coming after, ever and anon turning back, and pre<g ref="char:EOLhyphen"/>ſenting the point at them, threatning if any of them came near, he would run them thorow, and then to the priſoners; what you can make Tricks at me, (meaning as was ſuppo<g ref="char:EOLhyphen"/>ſed a Gentlewoman that look't out at the priſon window, and bow'd to his extinct Worſhip as he paſt by,) I will have you quoth he where you ſhall hear what <hi>Parliament Men</hi> ſay.</p>
+            </div>
+            <div n="23" type="section">
+               <head>
+                  <hi>Section</hi> 23.</head>
+               <p>Arriving at the <hi>Hart-gate,</hi> he leaves the priſoners there with the Captain, who waited upon his Enſigus Excellency ſo far to know his pleaſure, runs in Sputtering into his Court, and calls to ſome Gueſts that Lodged there that Night, <hi>Parliament-men</hi> he ſaid, in his wonted rude Dialect; Come ye down there Gentlemen, Come ye down I ſay; at which Call appeared Three Gallants pe<g ref="char:EOLhyphen"/>riwig'd
+<pb n="16" facs="tcp:30272:11"/> to the middle, and ſtood in the Gate, one of which opened his mouth and ſpake, and ſaid, Gentlemen there is an Act of <hi>Parliament,</hi> and we conceive Mr. <hi>Coxcomb</hi> doth but his Duty; Another ſaid, Yes it is ſo, but we would not abett his over-much Zeal, or to that purpoſe: So the Speeches ended, and good Night <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entlemen. Now ſaith our Jaylor <hi>Tom,</hi> you hear what <hi>Parliament men</hi> ſay, Come away, come away, along, along, along, and hurries away the poor priſoners towards the Goal, who patiently vampt a<g ref="char:EOLhyphen"/>long before him in the ſtreet in the dark and dirt, ſmiling to themſelves at the Fellows madneſs; I will put you in ſaith he, ſee if Mr. <hi>Bayliff</hi> will fetch you out, and blunde<g ref="char:EOLhyphen"/>ring ſomething paſt the priſon door, calls out come ye back, what do ye not know this place Mr. <hi>C.</hi> Yes Sir quoth he, very well I thank you for it, having been fetcht out of his Houſe Illegally once by that Fellow when he was Church-warden, and committed thither by <hi>D.</hi> K. without <hi>Mittimus,</hi> or cauſe why: <hi>Tom</hi> Commands that the priſon<g ref="char:EOLhyphen"/>doors be opened, and that the priſoners enter: Sir quoth one of them, you will Write ſomething will you not? meaning a <hi>Mittimus,</hi> which he was not capable of making being no Juſtice, and therefore made his Sword his <hi>Mitti<g ref="char:EOLhyphen"/>mus:</hi> No quoth he, I will not keep them Cloſe priſoners and let none come at them without Orders from the Cap<g ref="char:EOLhyphen"/>tain or Bayliff, immediatly ſets a Guard of Souldiers upon the priſon, and gives them the like charge, which Guard was hourly relived from his Court of Guard, and kept up<g ref="char:EOLhyphen"/>on the priſon till the Priſoners enlargement from thence. ſome of which Guard were very rude and uncivill, turning out Viſiters, watching the priſoners in the Chamber, ſearched the Victuals ſent in, and a very Cloſe-ſtool, which one kept out and ſaid it was a Trunk, and might have
+<pb n="17" facs="tcp:30272:11"/> arms in it, but ſearched it at leaſt, and let it paſs; its pit<g ref="char:EOLhyphen"/>ty, he found not ſomething for his better reſentment.</p>
+            </div>
+            <div n="23" type="section">
+               <head>
+                  <hi>Section</hi> 23.</head>
+               <p>All this reaked malice quite contrary to the Adverſaries intentions, proved for the better comfort of the Priſo<g ref="char:EOLhyphen"/>ners, who in the other place were even quite ſick for want of Reſt by reaſon of the rudeneſs of the Souldiers, and their Spirits tired by many Viſitors, and were glad they were re<g ref="char:EOLhyphen"/>tired to a place more remote from Tumultuous noiſe and company, and immediatly an honeſt Neighbour bringing them into a good bed, and clean ſheets, went to bed, and thorow mercy had very quiet refreſhment.</p>
+            </div>
+            <div n="24" type="section">
+               <head>
+                  <hi>Section</hi> 24.</head>
+               <p>The next day about Eight of the Clock News is brought in, that the Priſoners muſt away to <hi>Wincheſter</hi> in half an hour, and upon that the Band was called together, and <hi>Tom</hi> muſtering of them all in a readineſs to ſecure the priſo<g ref="char:EOLhyphen"/>ners thither; at which News the Priſoners were further re<g ref="char:EOLhyphen"/>joyced, hoping that ere long God would ſome way or other deliver them from Bruits, and bring them into the hands of men, and therefore bleſſed God for this News alſo, on<g ref="char:EOLhyphen"/>ly Mr. <hi>S.</hi> being weak and lame, ſent Word that he could not go ſuch a Journey on foot, deſired he might have a Horſe; anſwer was brought that he might ride, but then muſt have his Leggs tied; content ſaith the Good man: The Priſoners p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epare for their Journey, diſpoſe of all their priſon Houſhold-ſtuff, and ſing the 146 <hi>Pſalm,</hi> and are in expectation of the Word of Command, but found that their Counſell proves Abortive, <hi>Tom</hi> being happily
+<pb n="18" facs="tcp:30272:12"/> quit of his Juſtices place the day before, and could by no means procure a <hi>Mittimus</hi> ſigned by any other Juſtice.</p>
+            </div>
+            <div n="25" type="section">
+               <head>
+                  <hi>Section</hi> 25.</head>
+               <p>When the Priſoners came into the Priſon, they found a young Man that had layn there a Week, and commit<g ref="char:EOLhyphen"/>ted by Mr. <hi>Popins Bale,</hi> and Mr. <hi>P. B.</hi> and <hi>T. W.</hi> for ſay<g ref="char:EOLhyphen"/>ing there goes the Informer; Another grave honeſt man <hi>P. B.</hi> Committed the next day for ſaying to one of the In<g ref="char:EOLhyphen"/>formers paſſing by him, <hi>Solomon</hi> thou haſt ſerved the Devill all thy dayes, what wilt thou ſerve him ſtill? the Rogue tells the Juſtice that he ſaid the Service of the King was the Service of the Devill: Souldiers inſtead of Offi<g ref="char:EOLhyphen"/>cers were ſent up and down to pull men out of their Hou<g ref="char:EOLhyphen"/>ſes and ſhops, and hale them before the Juſtices, the Town ſtill all in a Hubbub with beating of Drums, marching of Souldiers, ſetting ſome by the heels, threatning of others, <hi>Peter Bl.</hi> taking his meaſures from <hi>Tom W.</hi> was and conti<g ref="char:EOLhyphen"/>nues to be his moſt humble and dutifull Servant. And mightily offended were theſe Zealous Gentlemen at the Lieutenant that he was not ſo mad as they; on <hi>Son<g ref="char:EOLhyphen"/>day</hi> they rebuked him highly for not wearing his Sword when they drew theirs; he told them he could do as much with the Staff in his hand as would be needful: On <hi>Tueſday</hi> having his Sword by his ſide, <hi>Tom Coxcomb</hi> the En<g ref="char:EOLhyphen"/>ſign, and Capt. <hi>K.</hi> ſets upon him to take his Sword from him, which he thought good not to part with.</p>
+            </div>
+            <div n="26" type="section">
+               <head>
+                  <hi>Section</hi> 26.</head>
+               <p>On <hi>Tueſday</hi> about five of the Clock in the Afternoon, a Guard of Souldiers fetched the Priſoners up from the pri<g ref="char:EOLhyphen"/>on to Mr. Bayliffs houſe before Captain <hi>K.</hi> Mr. Bayliff
+<pb n="19" facs="tcp:30272:12"/> and his Brethren, with whom <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate the Honourable the Lady <hi>Sands,</hi> the Worſhipful Sir <hi>Kinſmell Lucy,</hi> and Mr. <hi>Whitebread,</hi> Captain <hi>K.</hi> deſiring ſome courſe might be ta<g ref="char:EOLhyphen"/>ken for the priſoners that the Souldiers might be diſchar<g ref="char:EOLhyphen"/>ged: Theſe Perſons of Honour and Worſhip Treated the priſoners with much Candor and Civillity, ſeeming to commiſſerate their Condition, and wiſhing Mr. Bayliff that ſome Expedient might be found out for their enlarge<g ref="char:EOLhyphen"/>ment; Yes I pray ſaith the Captain let it be done, that the Souldiers may be diſcharged; finding that it would be more chargeable keeping them after the Bayliffs Feaſt. Mr. Bayliff requires them to pay their Conviction money to their Informers, which truly the priſoners could not yeild to, knowing they had committed no Offence that deſerved ſuch a penalty; they told them they could juſti<g ref="char:EOLhyphen"/>fie the Impriſoning them till they had pay'd the Mulct; the priſoners ſaid, they much queſtioned it, the Law having provided another way, <hi>viz.</hi> by Diſtreſs for the Raiſing of the money if refuſed. The Juſtices would know then whether they would ſhew their Goods, and ſuffer them<g ref="char:EOLhyphen"/>ſelves to be Diſtrain'd: They Replyed they would make no Reſiſtance, but would do their beſt to Secure their Goods; At laſt after long Diſcourſe of this nature, among a great croud of people, Mr. Bayliff aſſigns a Houſe in Town for their Priſon, and calls two Neighbours to be bound in 100 <hi>l.</hi> Bond apiece for the Surrendry of the Priſoners at that place upon a certain Warning given; which thing (the priſoners tyred and wearied from place to place by <hi>Toms</hi> Abuſes, and his Souldiers Rudeneſs,) In conſiderately yeil<g ref="char:EOLhyphen"/>ded, and found it an Inconvenience afterward, and would have been much more had their Obligation been legall.</p>
+            </div>
+            <div n="28" type="section">
+               <pb n="20" facs="tcp:30272:13"/>
+               <head>
+                  <hi>Section</hi> 28.</head>
+               <p>Now after all this noiſe that the Inhabitants of the Town and places adjacent were ſufficiently diſturb'd with, but not affrighted at, likewiſe people knowing it to be but the froth of a Sack pot: At laſt this wonderful <hi>Hector</hi> appears before thoſe perſons of Quality before mentioned, with his Accuſations againſt the priſoners, and but againſt one neither, and ſaith Gentlemen, this Fellow (pointing at <hi>C.)</hi> is the worſt perſon in <hi>England;</hi> Why: Mr. <hi>Coxcomb</hi> quoth he. <hi>T. W.</hi> anſwers, he goes about from Houſe to Houſe, and tells the people they muſt obey the Laws of God, they need not care a pin for the Laws of men: Who will ſay ſo quoth <hi>C.</hi> or Swear ſo bring your Witneſs. I will Swear ſo my ſelf quoth <hi>Tom;</hi> That's a likely thing quoth <hi>C.</hi> that I ſhould ſpeak it in your hearing: The Gentlemen lookt upon him and ſaid nothing, but without doubt admired at the Impudency of the Beaſt.</p>
+            </div>
+            <div n="29" type="section">
+               <head>
+                  <hi>Section</hi> 29.</head>
+               <p>Another Accuſation he brought againſt the ſame party was, that he ſhould look out of a Window towards the ſtreet on the people ſtanding in the ſtreet, and ſay, you that are mine depart. Mr. <hi>S.</hi> replied, you miſtake Sir, for the neareſt to that expreſſion was ſpoken by him Mr. <hi>S.</hi> who ſaid to the people ſtanding in the ſtreets, I pray Friends if you have any Reſpect for us, go into your Hou<g ref="char:EOLhyphen"/>ſes, and where is the Treaſon or Rebellion in that, and here you ſee how the K. of <hi>Fr.</hi> with 30000 men went up a Hill, and ſo came down again.</p>
+            </div>
+            <div n="30" type="section">
+               <pb n="21" facs="tcp:30272:13"/>
+               <head>
+                  <hi>Section</hi> 30.</head>
+               <p>But yet <hi>Tom</hi> is not ſatisfied, the Informers his <hi>Jackall's</hi> hath got no money all this while, he having promiſed them great Rewards; and therefore <hi>Tom</hi> hunts for them, takes Captain <hi>J.</hi> along with him, and away to Captain <hi>A.</hi> their great Confident, (a Gentleman that keeps many a Couple of Beagles, Spiritual and Temporall, and now and then runs down a Carriers Horſe; ſometimes a <hi>Non C.</hi> and catcheth moſt of the poor People by the Belly in this Count<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,) to him they bring a Certificate from the Bay<g ref="char:EOLhyphen"/>liff of <hi>Andover,</hi> that he may ſend out his Warrants to Di<g ref="char:EOLhyphen"/>ſtrain thoſe out of the Liberties of <hi>Andover,</hi> and withall Conſult <hi>(Tom</hi> being a ſpeciall Friend to the Liberties of the Town) to Preſent Mr. <hi>S.</hi> Mr. <hi>C.</hi> the Lieutenant, and about Twenty more for a Ryot at the County Quarter-Seſſions at <hi>wincheſter,</hi> and ſend their Informers to Swear it, which accordingly was done; It's very probable they would have put in this Preſentment at <hi>Andover,</hi> where it was as right to be judged, but that all the Town (where the Offence was charged) can witneſs, that <hi>Tom,</hi> the Cap<g ref="char:EOLhyphen"/>tain, and the Crew were the Ryoters if there were any, and that Mr. <hi>S.</hi> M. <hi>C.</hi> and the Lieutenant were the perſons uſed all poſſible means to prevent all Oppoſition, or reſi<g ref="char:EOLhyphen"/>ſtance from the poor people ſo abuſed by them, and their Informers; and this hundreds of people can teſti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e on Oath, if they be called to it.</p>
+            </div>
+            <div n="31" type="section">
+               <head>
+                  <hi>Section</hi> 31.</head>
+               <p>And now for the perpetuall honour of the preſent Go<g ref="char:EOLhyphen"/>vernors of <hi>Andover,</hi> we muſt not forget (till they repent in duſt and aſhes) their unwearied care, diligence, and in<g ref="char:EOLhyphen"/>duſtry
+<pb n="22" facs="tcp:30272:14"/> to vex, perplex, and perſecute the good people of the ſaid Town for the ſervice of the living God. Mr. <hi>J. P.</hi> Bayliff, <hi>P. B.</hi> and <hi>Tom Coxcomb</hi> Juſtices, <hi>W. T. alias R.</hi> Town-Clark, making it their great buſineſs to ſtir up, and animate Informers, (which otherwiſe never had been in the Town of <hi>Andover)</hi> offering money, or promiſing it to divert to undertake the Service; at laſt hardly pre<g ref="char:EOLhyphen"/>vailing, with two pittiful poor lewd, diſſolute Fellows, <hi>R. M.</hi> and <hi>S. H.</hi> Searge-weavers, the laſt of which they were exceedingly beholding to lately, but this Summer for abuſing the whole Government, in ſetting up a Mock-Court, and perſonating the Bayliff, Juſtices, and all Officers himſelf, taking a Recorders place, ſomething above <hi>W, R.</hi> deriding the ſeveral Infirmities of body, and judicial pro<g ref="char:EOLhyphen"/>ceedings (as the World knows they have very many of the laſt) who being diſcovered to them, they bound over <hi>S.</hi> to the Quarter Seſſions, and many of his Comrades; but at Midſummer Seſſions laſt, upon Examination finding him to be a perſon of ſuch hidden Worth, and ſo able to ma<g ref="char:EOLhyphen"/>nage Publick Affairs, they thought him a very fit and well-qualified perſon to undertake the Rule of themſelves, and the whole Town, and accordingly courted him to under<g ref="char:EOLhyphen"/>take the high Dignity of an Informer, and Suproviſor<g ref="char:punc">▪</g>Ge<g ref="char:EOLhyphen"/>neal of the Rule and Government.</p>
+            </div>
+            <div n="30" type="section">
+               <head>
+                  <hi>Section</hi> 30.</head>
+               <p>Accordingly this Squire <hi>Solomon</hi> taking into Commiſ<g ref="char:EOLhyphen"/>ſion with himſelf the judicious and crackt-brain'd Gentle<g ref="char:EOLhyphen"/>man <hi>R. M.</hi> begin to addreſs unto the aforeſaid Publick Service; but theſe being not yet fleſht, (though they had a good mind to the Prey,) could not tell how to faſten, and therefore for a while beat about, came on, and went off a<g ref="char:EOLhyphen"/>gain,
+<pb n="23" facs="tcp:30272:14"/> ſmell'd upon the Mouſh, but would not venture to faſten.</p>
+            </div>
+            <div n="31" type="section">
+               <head>
+                  <hi>Section</hi> 31.</head>
+               <p>Their Maſters (for ſo I call them in purſuit) cries ha low, ha low, here, here, here, Winds the Horn, claps them on the back, and finding that they ſtill ſtarted when they came to faſten, not knowing a Hare very well, but taking him to be a Wolf when they came to ſee him; the Ma<g ref="char:EOLhyphen"/>ſters I ſay conſidered they were but young Doggs, and not yet well fleſht, conſulted together that they would for once play a little foul play, and ſet a Purſe not at a Mouſh, and take the Hare and give him to their Doggs that they might Suck the blood of him, and be animated to go on to their work with more courage the next time.</p>
+            </div>
+            <div n="23" type="section">
+               <head>
+                  <hi>Section</hi> 23.</head>
+               <p>Therefore on <hi>Auguſt</hi> 10. 1673. they ſend out thoſe Curs a beating, they beat very near the mouſh, and there make a ſtand, finding the Court-door ſhut of the Houſe where the people met; one that ſtood there went to open them: no ſay they do not open the door, we were ſent to Inform, but are not willing, we will go back and ſay the door is ſhut; They return to <hi>T. W.</hi> and his Brethren, (be<g ref="char:EOLhyphen"/>ing at the publick Rubrick Devotion at Church, and the Vicar an old Sheep-biter preaching from 2 <hi>Tim.</hi> 3. 12. yea <hi>and all that will live godly in Chriſt Jeſus ſhall ſuffer perſecu<g ref="char:EOLhyphen"/>tion,</hi> Inſiſted much on the Word <hi>Shall,</hi> and therefore no doubt preſt his Hearers to Perſecute as their duty.) <hi>T: W.</hi> raiſeth himſelf like a Puttock to the Prey, and yelps; Up riſeth the other two Sparrow-Hawks, and <hi>W. K.</hi> the Fauk<g ref="char:EOLhyphen"/>ner, and away they march, in they come towards the end
+<pb n="24" facs="tcp:30272:15"/> of the morning Exerciſe in the time of Singing the laſt <hi>Pſalm;</hi> Mr. Bayliff ſtanding very uneaſily, and <hi>T. W.</hi> un<g ref="char:EOLhyphen"/>quietly during the ſaid time, the people being not at all moved by the formidable preſence, but Singing on with<g ref="char:EOLhyphen"/>out Interruption, though <hi>T. W.</hi> thought every body would be frighted with his face, having been up all Night before potting, gaming, and ſwearing; Now he thought God and all Religion muſt fly before him, he puts on his Hat, and pulls it off, and puts it on again, runs out to <hi>W. R.</hi> and bids him read the Orders: I will read no Orders quoth <hi>W.</hi> they know the Orders already; In he goes again, bids Mr. Bay<g ref="char:EOLhyphen"/>liff diſturb them, for ſaith he they will Sing all day; but Mr. Bayliff was ſo Civill as to think it was in vain for him to talk while they were Singing: The <hi>Pſalm</hi> being ended, <hi>Mr: S.</hi> concluded with a Bleſſing. Then Mr. Bayliff ope<g ref="char:EOLhyphen"/>ned his mouth and ſaid, Gentlemen, we underſtand you have a Tumultuous Aſſembly here. Mr: <hi>C.</hi> anſwered, you ſee Sir what it is: After this <hi>T: VV:</hi> bubbled, and <hi>P. B.</hi> uttered ſome Impertinencies, (the people haſting out be<g ref="char:EOLhyphen"/>ing diſmiſſed) <hi>Mr. B.</hi> charged them to deſiſt, and meet no more, or to that purpoſe; To which <hi>Mr: C.</hi> replyed, Whether it be right in the ſight of God to hearken to you more then unto God judge ye: ſo they departed.</p>
+            </div>
+            <div n="33" type="section">
+               <head>
+                  <hi>Section</hi> 33.</head>
+               <p>In the Afternoon the people aſſembling after their won<g ref="char:EOLhyphen"/>ted manner, and <hi>Mr: C,</hi> Preaching, the ſame Juſtices with <hi>J. K.</hi> Captain of the Train-band entred the <hi>Meeting</hi> the ſecond time, uſhering their Informers with them; When they ſtood awhile, the ſaid <hi>Miniſter</hi> going on with his Ser<g ref="char:EOLhyphen"/>mon, at laſt ſaith Captain <hi>J</hi> we muſt Interupt them, <hi>Mr. Bayliff</hi> pray do it: Accordingly <hi>Mr. Bayliff</hi> ſaid, That
+<pb n="35" facs="tcp:30272:15"/> their Meeting was contrary to Law, Seditious, <hi>&amp;c.</hi> Mr. <hi>S.</hi> pleaded the Kings gracious Licence: <hi>T. W.</hi> ſaid, the King had no power to give any ſuch Licenſe, and made a piſh at it: Mr: <hi>C.</hi> pleaded that they were not Trangreſ<g ref="char:EOLhyphen"/>ſors of the Act, being not Seditious, or Diſloyal, and that they Worſhipped God according to the practice of the Church of <hi>England,</hi> by Preaching, Praying, Singing of Pſalms, and reading the Scriptures, and therefore were not liable to the Penalty thereof; After which Debate they departed, leaving their Informers to take Names: And now the Informers begin to take a Smatch of the Buſineſs, and the next Week come in to Swear before the Grand Three; They give them Oath, and when taken, they could not tell who to Name well, either by reaſon of the mul<g ref="char:EOLhyphen"/>titude, and not knowing whether they might offend in naming ſome Relations of the Juſtices, <hi>&amp;c.</hi> but the Juſti<g ref="char:EOLhyphen"/>ces ſeeing them ſomething ſparing, and modeſt, and na<g ref="char:EOLhyphen"/>ming but few, they helped them: Did you not ſee (ſay they) Such an one there, and ſuch a one, and named whom they were moſt willing to have in the Scrape; To which the Informers Swore very roundly, and this was the firſt Conviction: the Sums whereof are as followeth:</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>l.</cell>
+                        <cell>s.</cell>
+                        <cell>d.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>On Mr.</hi> C. <hi>the Preacher</hi>
+                        </cell>
+                        <cell>20</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>On the Suppoſed Owners of the Houſe</cell>
+                        <cell>20</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>On Mr.</hi> S. <hi>and</hi> 13 <hi>others as Hearers apiece</hi>
+                        </cell>
+                        <cell>03</cell>
+                        <cell>10</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>On the Churchwardens, and one Conſtable</hi> 5 <hi>l. a piece for not Informing</hi>
+                        </cell>
+                        <cell>15</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="34" type="section">
+               <head>
+                  <hi>Section</hi> 34.</head>
+               <p>Theſe <hi>Edomites</hi> having once Informed, Children and Youths as they went along the Streets would call them In<g ref="char:EOLhyphen"/>formers;
+<pb n="26" facs="tcp:30272:16"/> which they taking now as a term of Diſgrace, and diſ-reputation among their Neighbours, they Addreſs themſelves with great complaint to Mr. <hi>Bayliff</hi> how they were abuſed: Mr: <hi>Bayliff</hi> honours them with his Attendance down the Street, calling at the ſhops as he went along in great Rage, threatning the Apprentices, and ſaying he would not have the Kings Officers (ſo he called the In<g ref="char:EOLhyphen"/>formers) abuſed, and if any called them Informers, he would bind them to the good behaviour, or ſend them to Priſon, <hi>&amp;c.</hi> The People pleaded it was the Name of their Profeſſion, and that Name the Parliament was pleaſed to give them, and therefore were not much moved any more then unto Laughter at ſuch Ridiculous Actings of a Per<g ref="char:EOLhyphen"/>ſon of his Authority, and ſuppoſed judiciouſneſs.</p>
+            </div>
+            <div n="45" type="section">
+               <head>
+                  <hi>Section</hi> 45.</head>
+               <p>Hence upon further Complaint of the Informers, of the Peoples Saluting them ſtill by that Title, Mr. <hi>Bayliff</hi> aſſembles his Oracles, <hi>P: B. T: W. J. K.</hi> and <hi>S: H.</hi> and paſſeth a Vote, That no Man or Woman ſhould dare to call the <hi>Edomites</hi> Informers, and ſuppoſed the Parliament did not ſo well conſider the Ill Conſequences of ſuch a Title; accordingly Sit in judgement upon all Affronts of them, hath the Boyes Convened before them, and finding one guilty of ſaying there goes the Informer (as the Youth denyed not, but acknowledged when he was asked,) Mr. <hi>Bayliff</hi> requires Sureties for the Good-Behaviour of him, which he refuſing, he ſent him to the Town Priſon, where he remained a Priſoner a full week.</p>
+            </div>
+            <div n="6" type="section">
+               <pb n="27" facs="tcp:30272:16"/>
+               <head>
+                  <hi>Section</hi> 6.</head>
+               <p>On the Lords day the <hi>7th.</hi> of <hi>Sept.</hi> above named, when the great Violence was offered to the ſaid Meeters as is a<g ref="char:EOLhyphen"/>bove rehearſed at large, the Informers came not into the Meeting any further then the Yard, (though Captain <hi>J.</hi> called vigorouſly for them, ſaying where is the Informers, the Informers, though about a W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ek before he paſſed the ſtreet in great Rage at the Boyes for calling them Infor<g ref="char:EOLhyphen"/>mers, and Inſtigated the Juſtices to puniſh them,) they are buſied in pulling, haling, and beating the People by the Captains, and <hi>T's</hi> Command and Example, but yet bring in Information, and Conviction is made by the Grand Three Perſecutors as followeth.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>l.</cell>
+                        <cell>s.</cell>
+                        <cell>d.</cell>
+                     </row>
+                     <row>
+                        <cell>Mr: S. For Preaching Conventicles</cell>
+                        <cell>20</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>The Suppoſed Owner of the Barn</cell>
+                        <cell>20</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>11 <hi>Hearers a Second Conviction</hi>
+                        </cell>
+                        <cell>05</cell>
+                        <cell>10</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>On</hi> 18 <hi>more a firſt Conviction</hi>
+                        </cell>
+                        <cell>04</cell>
+                        <cell>10</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>This Conviction and Warrant for Diſtreſs <hi>T: VV.</hi> Signed and Sealed when no Juſtice.</p>
+            </div>
+            <div n="7" type="section">
+               <head>
+                  <hi>Section</hi> 7.</head>
+               <p>Among the Perſons that theſe Informers had Swore a<g ref="char:EOLhyphen"/>gainſt, there were Two that had not been at the <hi>Meeting</hi> that day, of which there was abundant Evidence, and therefore at the Town Seſſions held at <hi>Andover October</hi> the Ninth, a Bill of Indictment was preferred to the Grand Jury againſt the ſaid Informers for Perjury, Juſtice <hi>P. B.</hi> tells the Witneſſes, that if they went to prove the Infor<g ref="char:EOLhyphen"/>mers perjurers they muſt Swear high, calls the Witneſſes
+<pb n="38" facs="tcp:30272:17"/> after they had been with the Grand Jury; and endeavours to entrap them, and confound the Evidence, perverted their Evidence, and ſaid, he would take his Oath they ſaid one thing, when they ſaid another; and when they have Evidence, point blank ſaid it was nothing. <hi>T: Cox<g ref="char:EOLhyphen"/>comb</hi> (though no Juſtice) ſate Controller of the Court, and ſaid there was a Knot o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them, and told the Bayliff there would need two or three Files of Muſquetiers to Guard home the Juſtices, ſwelling and ſputtering out a great deal of Fome and Folly. The Grand Jury (by reaſon of one <hi>J: G.</hi> Linnen Draper, and <hi>A: M.</hi> Clothier, two perſons of the ſame Kidney with <hi>T. W.</hi> and the Informers,) could not agree to Find the Bill, Eleven or Twelve being for finding it, but theſe Two reſolved never to yeild upon any Evidence; ſaid the Perſons that gave Evidence were ſuch as went to the Barn, and therefore were not to be be<g ref="char:EOLhyphen"/>lieved, with other ſuch Impertinent put offs whereby they detained and wearied the Jury, and Court, being hacked alſo by <hi>P. B.</hi> and <hi>T: W.</hi> Mr. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayliff adjourns the Court till <hi>Munday</hi> Sevenight after.</p>
+            </div>
+            <div n="38" type="section">
+               <head>
+                  <hi>Section</hi> 38.</head>
+               <p>When the Proſecutors of the ſaid Informers (ſeeing ſuch obſtructions to the Current of Juſtice,) thought meet to procure a Counſell to appear (an univerſall thing in Pre<g ref="char:EOLhyphen"/>ferring a Bill to a Grand Jury) to ſee fair play: A Coun<g ref="char:EOLhyphen"/>ſell appears, overlooks the Bill, und finds it nought, amends it, and the Witneſſes all new Sworn to prove that thoſe Perſons were not at the Meeting at that time; Mr: <hi>P. B.</hi> alſo Supaena'd to give Evidence that the Informers had Sworn againſt the ſaid Perſons; He ſaid he could not Swear unleſs he ſaw his Hand and Seal; The Conſtable is called
+<pb n="39" facs="tcp:30272:17"/> for to bring in the Warrant with the Three Juſtices hands to it; who appearing, <hi>Tom Coxcomb</hi> demands the War<g ref="char:EOLhyphen"/>rant again and again; the Conſtable ſimply delivers it to him, who takes it and ſhews <hi>P. B.</hi> his hand, whiſpers to him, and immediatly runs out of the Court with it. <hi>P. B.</hi> is urged to give Evidence to the Grand Jury, refuſeth to do it: The Jury come and ſay, they had ſufficient Evi<g ref="char:EOLhyphen"/>dence that the ſaid perſons were not at the Meeting; but not that the Informers had Sworn againſt them, though ſe<g ref="char:EOLhyphen"/>verall Witneſſes were Sworn, who heard one of the Ju<g ref="char:EOLhyphen"/>ſtices <hi>(Mr. P.</hi> then ſick of the Gout, and therefore could not appear in the Court) ſay that the Informers had Sworn againſt theſe perſons before all Three of them, and their Names were on the Warrant, and one of them Diſtrained by the Officers, <hi>W. R. T. C.</hi> tells with might and main they had no Evidence that the Informers had Sworn a<g ref="char:EOLhyphen"/>gainſt thoſe Perſons, and therefore could not Find the Bill. The Counſell calls for the Convictions to be produced in Court as the Act requires, and told them the hazard of not doing it, <hi>viz.</hi> their Forfeiting their 100 <hi>l.</hi> a piece, (the ſaving of which they ſtill pretended to be the reaſon of their fierce acting againſt the people) notwithſtanding all, they refuſed to produce the ſaid Conviction, chooſing ra<g ref="char:EOLhyphen"/>ther to hazard that penalty, then to do any thing that might endanger the cropping off the Doggs ears.</p>
+            </div>
+            <div n="39" type="section">
+               <head>
+                  <hi>Section</hi> 39.</head>
+               <p>The Counſell ſeeing them ſo Peremptorily reſolved to ſtop Juſtice againſt their own Creatures, ſaid he ſaw it was in vain to preſs there any further, Juſtice muſt be ſought for elſewhere, withdrew the Bill, and departed the Court, and ſaid he had been in many Courts, but never ſaw the like of this.</p>
+            </div>
+            <div n="40" type="section">
+               <pb n="30" facs="tcp:30272:18"/>
+               <head>
+                  <hi>Section</hi> 40.</head>
+               <p>And that none need queſtion <hi>T. VV.</hi> to be a true Pote<g ref="char:EOLhyphen"/>ſtant, hear the Confeſſion of his Faith; he ſaid, There are ſo many Judgements and Diviſions, and People are come to ſo much Knowledg, that it is pitty the Bible was ever put into Engliſh; The other Articles of his Faith are in the <hi>Alchoran,</hi> and in the Quart Pot.</p>
+            </div>
+            <div n="41" type="section">
+               <head>
+                  <hi>Section</hi> 41.</head>
+               <p>And that the World may be quite out of doubt of the Integrity, juſtice, and honeſty of the aforeſaid Juſtice <hi>P. B.</hi> take this ſhort Addition to the Premiſes. Being Com<g ref="char:EOLhyphen"/>plained to, that the Officers had found <hi>Tom. Coxcomb, VV. R.</hi> and <hi>D. H.</hi> Tipling together at the <hi>Heart</hi> on the <hi>Sonday,</hi> and let them alone ſo doing. Mr. <hi>P. B.</hi> anſwered, he did believe the Law did not intend the puniſhing ſuch Perſons who were of the Richer Sort, but the Poorer that were not ſo well able to ſpend their money; and for the reſt of his Religion, it was prickt up long ago on the point of his Ra<g ref="char:EOLhyphen"/>pier, and abandoned with a Health upon his Knees, and ever ſince he hath had a Chiver-Leather'd Conſcience, and the Rule that he hath walked by hath been <hi>Lesbian,</hi> or the Ell and the Yard.</p>
+            </div>
+            <div n="42" type="section">
+               <head>
+                  <hi>Section</hi> 42.</head>
+               <p>Now though this Narrative look ſo much like a Fiction, or Trage-Comedy; Yet be it Known unto all, That the Things declared therein, are a true and exact Hiſtory of Things not done in a Corner, but before the Sun, in the ſight and hearing of Multitudes of People; And if any queſtion the truth of any Thing herein Declared for mat<g ref="char:EOLhyphen"/>ter
+<pb n="31" facs="tcp:30272:18"/> of Fact, he may have in <hi>Andover</hi> many Witneſſes to atteſt the Truth (if lawfully called thereto) upon Oath; and as for any thing elſe beſides Hiſtory, it's but ſome Cha<g ref="char:EOLhyphen"/>racters according to Fact, and calling a <hi>Spade</hi> a <hi>Spade.</hi>
+               </p>
+            </div>
+            <div n="43" type="section">
+               <head>
+                  <hi>Section</hi> 43.</head>
+               <p>Laſtly, Let the World judge whether ſuch Courſes and Practices as theſe, be the right way of Promoting and Eſta<g ref="char:EOLhyphen"/>bliſhing the Proteſtant Religion in <hi>England;</hi> and whether there be any more then a pair of Sheers between Papiſts, and ſuch Proteſtants that are ſo ſick of the overflowing of the Gall? And that if ever <hi>England</hi> ſhould come to flame with Fire and Faggot again, (which God forbid ever it ſhould,) whether it doth not abundantly appear by what hath been ſaid, that (however other places ſpeed) there may be found Bloud<g ref="char:punc">▪</g>Hounds enough in <hi>Andover</hi> to purſue the Game? I might Querie other Things, but chuſe to End with the Liturgie, and ſay; From Bloudy Papiſts, and Cruel Plundering Proteſtants, <hi>Good Lord deliver Us.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
